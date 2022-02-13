@@ -1,0 +1,3 @@
+[submodule "LuaNativeObjects"]
+	path = LuaNativeObjects
+	url = ../LuaNativeObjects.git
